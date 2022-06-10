@@ -1,0 +1,247 @@
+[
+{
+"name": "Protocoles et concepts de routage ",
+"test": "18.00 ",
+"tp": " ",
+"exam": "13.50 ",
+"avg": "15.30 "
+},
+{
+"name": "SystΦmes d'exploitation ",
+"test": " ",
+"tp": " ",
+"exam": "15.50 ",
+"avg": "15.50 "
+},
+{
+"name": "Calcul de circuits HF ",
+"test": " ",
+"tp": " ",
+"exam": "14.00 ",
+"avg": "14.00 "
+},
+{
+"name": "GΘnie Logiciel 1 ",
+"test": " ",
+"tp": " ",
+"exam": "10.00 ",
+"avg": "10.00 "
+},
+{
+"name": "Traitement numΘrique du signal et TP ",
+"test": "7.00 ",
+"tp": "17.50 ",
+"exam": "8.00 ",
+"avg": "9.70 "
+},
+{
+"name": "Bases de donnΘes ",
+"test": "10.00 ",
+"tp": " ",
+"exam": "13.00 ",
+"avg": "11.80 "
+},
+{
+"name": "Transmission du signal ",
+"test": "12.00 ",
+"tp": " ",
+"exam": "6.50 ",
+"avg": "8.70 "
+},
+{
+"name": "Processeurs embarquΘs et programmation ",
+"test": "16.50 ",
+"tp": "16.50 ",
+"exam": "14.50 ",
+"avg": "15.30 "
+},
+{
+"name": "Analyse et conception orientΘes objets 1 ",
+"test": " ",
+"tp": " ",
+"exam": "6.00 ",
+"avg": "6.00 "
+},
+{
+"name": ".Programmation .NET ",
+"test": " ",
+"tp": " ",
+"exam": " ",
+"avg": "-- "
+},
+{
+"name": ".Programmation JEE ",
+"test": "16.00 ",
+"tp": " ",
+"exam": " ",
+"avg": "16.00 "
+},
+{
+"name": "Mini projet JEE ou .NET ",
+"test": "18.00 ",
+"tp": " ",
+"exam": " ",
+"avg": "18.00 "
+},
+{
+"name": "Anglais 3 ",
+"test": "17.50 ",
+"tp": " ",
+"exam": " ",
+"avg": "17.50 "
+},
+{
+"name": "Franτais 3 ",
+"test": "15.85 ",
+"tp": " ",
+"exam": " ",
+"avg": "15.85 "
+},
+{
+"name": "Semaine d'intΘgration 2A ",
+"test": "15.00 ",
+"tp": " ",
+"exam": " ",
+"avg": "15.00 "
+},
+{
+"name": "Semaine d'ouverture ",
+"test": "16.50 ",
+"tp": " ",
+"exam": " ",
+"avg": "16.50 "
+},
+{
+"name": "Administration et programmation systΦme ",
+"test": "12.50 ",
+"tp": " ",
+"exam": "13.50 ",
+"avg": "13.10 "
+},
+{
+"name": "RΘseaux de files d'attente ",
+"test": " ",
+"tp": " ",
+"exam": "3.50 ",
+"avg": "3.50 "
+},
+{
+"name": "Antennes ",
+"test": "16.50 ",
+"tp": " ",
+"exam": "10.00 ",
+"avg": "12.60 "
+},
+{
+"name": "Projet bases de donnΘes / gΘnie logiciel ",
+"test": "16.00 ",
+"tp": " ",
+"exam": " ",
+"avg": "16.00 "
+},
+{
+"name": "Communications numΘriques ",
+"test": "15.00 ",
+"tp": " ",
+"exam": "3.50 ",
+"avg": "8.10 "
+},
+{
+"name": "SystΦmes de tΘlΘcommunications optiques ",
+"test": "14.75 ",
+"tp": " ",
+"exam": "2.00 ",
+"avg": "7.10 "
+},
+{
+"name": "Projet de fin de 2Φme annΘe TEL ",
+"test": "14.00 ",
+"tp": " ",
+"exam": " ",
+"avg": "14.00 "
+},
+{
+"name": "Compression de donnΘes 1D-2D ",
+"test": " ",
+"tp": " ",
+"exam": "8.50 ",
+"avg": "8.50 "
+},
+{
+"name": "RΘseaux mobiles cellulaires ",
+"test": " ",
+"tp": " ",
+"exam": "10.00 ",
+"avg": "10.00 "
+},
+{
+"name": "Codage et protection de l'information ",
+"test": " ",
+"tp": " ",
+"exam": "14.00 ",
+"avg": "14.00 "
+},
+{
+"name": "RΘseaux locaux d'entreprise ",
+"test": "14.50 ",
+"tp": " ",
+"exam": "17.50 ",
+"avg": "16.30 "
+},
+{
+"name": ".Anglais 4 ",
+"test": " ",
+"tp": " ",
+"exam": " ",
+"avg": "-- "
+},
+{
+"name": ".Allemand 1 ",
+"test": "19.50 ",
+"tp": " ",
+"exam": " ",
+"avg": "19.50 "
+},
+{
+"name": ".Chinois 1 ",
+"test": " ",
+"tp": " ",
+"exam": " ",
+"avg": "-- "
+},
+{
+"name": "Communications¦et gestion¦de¦soi ",
+"test": "16.00 ",
+"tp": " ",
+"exam": " ",
+"avg": "16.00 "
+},
+{
+"name": ".Linux embarquΘ ",
+"test": " ",
+"tp": " ",
+"exam": "15.50 ",
+"avg": "15.50 "
+},
+{
+"name": ".Temps rΘel et systΦmes embarquΘs ",
+"test": " ",
+"tp": " ",
+"exam": " ",
+"avg": "-- "
+},
+{
+"name": ".Transmission par faisceaux hertziens & satellites ",
+"test": " ",
+"tp": " ",
+"exam": " ",
+"avg": "-- "
+},
+{
+"name": ".ModΘlisation des canaux de transmission ",
+"test": " ",
+"tp": " ",
+"exam": " ",
+"avg": "-- "
+}
+]
